@@ -1,0 +1,20 @@
+Watchful — setup walkthrough
+iOS simulator screens. This video focuses on setup and does not demonstrate live searches or notifications.
+
+00–10 seconds: Make room for what matters.
+Start with two active watchers. Your watchlist and history stay on this device.
+
+10–20 seconds: Choose your AI provider.
+Open Settings. Add your own key, then review data sharing before enabling Gemini or OpenAI. AI usage is separate from Pro.
+
+20–30 seconds: Make yourself comfortable.
+Choose System, Light or Dark. Use your phone’s text-size settings for a more comfortable view.
+
+30–40 seconds: Start with a little inspiration.
+Choose a preset, or select Write my own to describe what you want to keep an eye on.
+
+40–50 seconds: Be specific about updates.
+Set your instructions and context. Say when you want a notification. Save, then test manually before relying on automatic checks.
+
+50–60 seconds: Two free. More with Pro.
+Pro removes the active-watcher limit. One purchase. No app subscription. Provider charges still apply.
